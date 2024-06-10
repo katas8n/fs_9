@@ -19,6 +19,8 @@ class Main {
 //        System.out.println(widthOfSquare);
 //        System.out.println(widthOfCircle);
  // Hello
+
+        // Hello from git!
         char correctAnswer = '@';
         boolean isDrunk = true;
 
