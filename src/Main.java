@@ -8,7 +8,11 @@ class Main {
     // void
     // main
 
+
     public static void main(String [] people) {
+//        System.out.println(sum(2, 3));
+//        System.out.println(sum(1, 3));
+//        System.out.println(sum(13, 13));
 //        for(int i = 0; i < people.length; i++) {
 //            System.out.println("Welcome to the gey-party : " + people[i]);
 //
@@ -417,9 +421,9 @@ class Main {
 //
 //            isRunning = false;
 
-            //
-            //
-            //
+        //
+        //
+        //
 
 //        Registration of user
 //        1. Ask email, if user email doesn't contain "@" or "." -> we should ask about it until it's correct
@@ -454,23 +458,62 @@ class Main {
 //        }
 //
 
+
 //    double randomNumber = Math.random();
 //        System.out.println(randomNumber);
+
 //        CASINO
+
 //        You should register amountOfAttempts variable
-//        You should welcome user in Casinp
+//        You should welcome user in Casino
 //        You should ask user about it's age.
 //        if user.age < 18 the game is over ( but user able to write it's age infinitely )
-//        Otherwise we ask user about the number
+//        Otherwise we ask user about the number to play
 //        then we should run Math.random() ( and some additional logic to get number from 0 to 31 )
 //        if number of user is equal to the number which accidentally appeared
 //        User should get the message that it's win
 //        otherwise we should amountOfAttempts++
 //        if amountOfAttempts > 5 { then we should each attempt after tell it's that he plays via credits  }
 
-        }
-//        ArrayList
-//    FS .tsv
-//        "JVM - is a part of ... " + " ...." + " ...."
+        // Don't forget about ...
+        // 1. User able to enter the name of activity and ...
+
+        // * User can infinitely add new activity to the list
+        // * User able to: a) Add new activity b) Show all activities c) Quit
+        // * delete activities
+    }
+
+//    static int sum(int a, int b) {
+//        //
+//        return a + b;
 //    }
+
+//        int[] numbers = {1,2,3,4,5};
+//        int[] numbers2 = {1,2,3,4,5};
+//
+//        String[] activities = {"Wake up", "Take on cap", "Go to work", "Drink coffee"};
+//
+//        String wakeUp = activities[0];
+//
+//        activities[0] = "Get up!";
+//
+//        System.out.println(activities);
+//        System.out.println("wakeUp:" + wakeUp);
+//
+//        for(int i = 0; i < activities.length; i++) {
+//            String activity = activities[i];
+//
+//            System.out.println(activity);
+//        }
+
+
+//        for(int i = 0; i < numbers.length; i++) {
+//            int number = numbers[i];
+//
+//            System.out.println(number);
+//        }
+//
+//        }
+//      ArrayList
+
 }
